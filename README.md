@@ -1,2 +1,2 @@
 # thermal-tool
-Calculates PMV and PPD values.
+This is a small tool that calculates the PMV and PPD values for thermal comfort mapping I made for my dad.
